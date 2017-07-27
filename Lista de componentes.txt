@@ -1,0 +1,57 @@
+Partlist
+
+Exported from Dub_Siren.sch at 27/07/2017 17:34:32
+
+EAGLE Version 5.10.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value          Device                   Package               Library    Sheet
+
+C1       1uF            CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C2       10uF           CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C3       100uF          CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C4       470uF          CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C5       100nF          CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C6       10nF           CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C7       1nF            CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C8       100nF          CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C9       220uF          CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C10      100nF          CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C11      10uF           CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C12      100uF          CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C13      1uF            CAP_POLPTH1              CPOL-RADIAL-100UF-25V SparkFun   1
+C14      100nF          CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+C15      100nF          CAPPTH1                  CAP-PTH-5MM           SparkFun   1
+IC1      NE555P         NE555P                   DIL-08                SparkFun   1
+IC2      UA741P         UA741P                   DIL08                 linear     1
+IC3      NE555P         NE555P                   DIL-08                SparkFun   1
+IC4                     V_REG_78XXSINK           TO220-IGO             SparkFun   1
+JP1                     M02PTH3                  1X02_LONGPADS         SparkFun   1
+JP2                     M05PTH_LONGPADS          1X05_LONGPADS         SparkFun   1
+JP3                     M05PTH_LONGPADS          1X05_LONGPADS         SparkFun   1
+JP4                     M02LOCK_LONGPADS         1X02_LOCK_LONGPADS    SparkFun   1
+JP5                     M02LOCK_LONGPADS         1X02_LOCK_LONGPADS    SparkFun   1
+JP6                     PINHD-1X2                1X02                  pinhead    1
+JP7                     PINHD-1X2                1X02                  pinhead    1
+LED1     Green          LED5MM                   LED5MM                SparkFun   1
+LED2     Blue           LED5MM                   LED5MM                SparkFun   1
+Q1       BC548          TRANSISTOR_NPNTO-92-AMMO TO-92-AMMO            SparkFun   1
+Q2       BC548          TRANSISTOR_NPNTO-92-AMMO TO-92-AMMO            SparkFun   1
+Q3       BC548          TRANSISTOR_NPNTO-92-AMMO TO-92-AMMO            SparkFun   1
+R1       10K            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R2       4K7            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R3       4K7            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R4       100K           TRIM_US-RS3              RS3                   pot        1
+R5       56K            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R6       5K LOG         TRIM_US-RS3              RS3                   pot        1
+R7       2K2            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R8       100K           TRIM_US-RS3              RS3                   pot        1
+R9       100K           TRIM_US-RS3              RS3                   pot        1
+R10      560R           RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R11      2K2            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R12      56K            RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R13      1k             RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R14      560R           RESISTORPTH-1/4W         AXIAL-0.4             SparkFun   1
+R15      100K           TRIM_US-RS3              RS3                   pot        1
+R16      100R 2W        R-US_0309/12             0309/12               resistor   1
+S1                      SWITCH-SPSTKIT           SWITCH-SPDT_KIT       SparkFun   1
+T1       BD139          BD139                    TO126                 transistor 1
